@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main();
+int main() {
 
 int num1 = 35;
 int unm2 = 45;

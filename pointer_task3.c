@@ -3,7 +3,7 @@
 int main();
 
 int num = 15;
-int *ptr = num;
+int *ptr = &num;
 
 
 printf("value number %p", &ptr);

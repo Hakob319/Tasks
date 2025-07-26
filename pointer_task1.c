@@ -4,7 +4,7 @@ int main(){
 
 int a = 5;
 float b = 3.5;
-char = c 'H';
+char c = 'H';
 
 
 int *ptr1 = &a;
